@@ -2,13 +2,11 @@
 This is a personal portfolio website developed as part of the *Oasis Infobyte Internship Program (OIBSIP)*.
 ## 🔗 Live Demo
 View the live website here:  
-👉 [https://bhoomika1177.github.io/OIBSIP-portfolio/](https://bhoomika1177.github.io/OIBSIP-portfolio/)
+👉 🔗 [Live Portfolio Website](https://bhoomika11-art.github.io/OIBSIP-portfolio/)
 ## 🖥 Features
 - Elegant landing page with name, title, and introduction
 - Resume download/view option
-- Project showcase with working demos:
-  - ✅ [To-Do List App](https://bhoomika1177.github.io/OIBSIP-portfolio/todo-app/)
-  - ✅ [Weather App](https://bhoomika1177.github.io/OIBSIP-portfolio/weather-app/)
+- Project showcase with working demos
 - Responsive design for all devices
 - Clean HTML and CSS code
 - ## 🚀 Technologies Used
