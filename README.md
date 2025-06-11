@@ -3,6 +3,8 @@ This is a personal portfolio website developed as part of the *Oasis Infobyte In
 ## 🔗 Live Demo
 View the live website here:  
 👉 🔗 [Live Portfolio Website](https://bhoomika11-art.github.io/OIBSIP-portfolio/)
+## GitHub Repository
+[view Source Code on Github](https://github.com/bhoomika11-art/OIBSIP-portfolio.git)
 ## 🖥 Features
 - Elegant landing page with name, title, and introduction
 - Resume download/view option
