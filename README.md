@@ -12,7 +12,6 @@ View the live website here:
 - ## 🚀 Technologies Used
 - HTML5
 - CSS3
-- JavaScript (for apps)
 ## 📌 Purpose
 This project demonstrates my front-end web development skills and serves as a part of the *Level 1 - Task 1* submission for the Oasis Infobyte internship.
 
